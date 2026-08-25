@@ -23,7 +23,7 @@
 
 # print(text[::-1])
 
-# Problem 4: Palindrome
+# # Problem 4: Palindrome
 
 # text = input("Enter String: ")
 
@@ -70,18 +70,18 @@
 
 # # Problem 8: Prime Number
 
-num = int(input())
+# num = int(input())
 
-count = 0
+# count = 0
 
-for i in range(1,num+1):
-    if num%i==0:
-        count+=1
+# for i in range(1,num+1):
+#     if num%i==0:
+#         count+=1
 
-if count==2:
-    print("Prime")
-else:
-    print("Not Prime")
+# if count==2:
+#     print("Prime")
+# else:
+#     print("Not Prime")
 
 # # Problem 9: Count Vowels
 
